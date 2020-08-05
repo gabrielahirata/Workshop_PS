@@ -240,10 +240,7 @@ textarea{
     .navbar :not(:first-child) {display: none;}
     .navbar .icon {display: block;}
     .navbar.responsive a {
-      float: none;
       display: block;
-      text-align: left;
-      flex-direction: column;
     }
     .navbar{
         flex-direction: column;
